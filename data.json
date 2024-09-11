@@ -1,0 +1,7 @@
+[
+    {"id": 1, "name": "Laptop", "category": "Electronics", "price": 1000.00, "quantity": 50},
+    {"id": 2, "name": "Keyboard", "category": "Electronics", "price": 50.00, "quantity": 200},
+    {"id": 3, "name": "Desk Chair", "category": "Furniture", "price": 150.00, "quantity": 80},
+    {"id": 4, "name": "Pen", "category": "Stationery", "price": 2.00, "quantity": 500}
+  ]
+  
